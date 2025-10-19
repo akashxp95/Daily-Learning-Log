@@ -7,14 +7,14 @@ I update this repo daily to track what I’m learning, experimenting with, and b
 
 ## 📅 Daily Entries
 
-### 🗓️ Day 1 — [2025-10-17]
+### 🗓️ Day 1 — [2025-10-18]
 - Started my Daily Learning Log project 🧩  
 - Learned what GitHub LICENSE files are and why they matter  
 - Practicing daily commits to stay consistent 💪  
 
 ---
 
-### 🗓️ Day 2 — [2025-10-18]
+### 🗓️ Day 2 — [2025-10-19]
 - Started my Daily Learning Log project 🧩  
 - Learned what GitHub LICENSE files are and why they matter  
 - Practicing daily commits to stay consistent 💪  
@@ -24,6 +24,13 @@ I update this repo daily to track what I’m learning, experimenting with, and b
 
 ---
 
+
+### 🗓️ Day 3 — [2025-10-20]
+- Started my Daily Learning Log project 🧩  
+- Learned what GitHub LICENSE files are and why they matter  
+- Practicing daily commits to stay consistent 💪  
+
+---
 ## 🧾 About
 This repository is my **personal learning tracker** — a space where I jot down what I learn daily.  
 If you find something useful, feel free to explore or connect! ✨  
