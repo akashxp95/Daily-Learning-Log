@@ -22,7 +22,7 @@ I update this repo daily to track what I’m learning, experimenting with, and b
 ### 🗓️ Day 4 — [2025-10-19]
 - Started my Daily Learning Log project 🧩  
 - Learned what GitHub LICENSE files are and why they matter  
-- Practicing daily commits to stay consistent 💪  
+- Practicing daily commits to stay consistent 💪
 
 ### 🗓️ Day 5 — [2025-10-19]
 - Started my Daily Learning Log project 🧩  
