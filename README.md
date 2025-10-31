@@ -38,7 +38,6 @@ I update this repo daily to track what I’m learning, experimenting with, and b
 ### 🗓️ Day 3 — [2025-10-20]
 - Started my Daily Learning Log project 🧩  
 - Learned what GitHub LICENSE files are and why they matter  
-- Practicing daily commits to stay consistent 💪  
 
 ---
 ## 🧾 About
